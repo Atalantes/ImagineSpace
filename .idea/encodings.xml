@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/board-authority/board-authority-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-authority/board-authority-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-flyway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-flyway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-common/board-common-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fire-analyzer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fire-analyzer/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

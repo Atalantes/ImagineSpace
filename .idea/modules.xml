@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FireBoard.iml" filepath="$PROJECT_DIR$/FireBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-authority/board-authority.iml" filepath="$PROJECT_DIR$/board-authority/board-authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-authority/board-authority-core/board-authority-core.iml" filepath="$PROJECT_DIR$/board-authority/board-authority-core/board-authority-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-authority/board-authority-model/board-authority-model.iml" filepath="$PROJECT_DIR$/board-authority/board-authority-model/board-authority-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-common/board-common.iml" filepath="$PROJECT_DIR$/board-common/board-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-common/board-common-flyway/board-common-flyway.iml" filepath="$PROJECT_DIR$/board-common/board-common-flyway/board-common-flyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-common/board-common-logging/board-common-logging.iml" filepath="$PROJECT_DIR$/board-common/board-common-logging/board-common-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-common/board-common-security/board-common-security.iml" filepath="$PROJECT_DIR$/board-common/board-common-security/board-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-common/board-common-web/board-common-web.iml" filepath="$PROJECT_DIR$/board-common/board-common-web/board-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-eureka/board-eureka.iml" filepath="$PROJECT_DIR$/board-eureka/board-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-gateway/board-gateway.iml" filepath="$PROJECT_DIR$/board-gateway/board-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-manager/board-manager.iml" filepath="$PROJECT_DIR$/board-manager/board-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-web/board-web.iml" filepath="$PROJECT_DIR$/board-web/board-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fire-analyzer/fire-analyzer.iml" filepath="$PROJECT_DIR$/fire-analyzer/fire-analyzer.iml" />
+    </modules>
+  </component>
+</project>
